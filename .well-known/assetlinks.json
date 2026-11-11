@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leftovers.app",
+      "sha256_cert_fingerprints": ["69:57:E3:7E:32:68:27:14:3C:20:4A:E9:84:1B:8C:FB:16:04:D0:41:63:E3:93:D1:73:18:22:DB:CA:68:8A:D6"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leftovers.app.dev",
+      "sha256_cert_fingerprints": ["69:57:E3:7E:32:68:27:14:3C:20:4A:E9:84:1B:8C:FB:16:04:D0:41:63:E3:93:D1:73:18:22:DB:CA:68:8A:D6"]
+    }
+  }
+]
